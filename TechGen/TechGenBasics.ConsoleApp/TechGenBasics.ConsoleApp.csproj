@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TechGenBasics.ClassesAndProperties\TechGenBasics.ClassesAndProperties.csproj" />
+      <ProjectReference Include="..\TechGenBasics.Fundamentals\TechGenBasics.Fundamentals.csproj" />
+      <ProjectReference Include="..\TechGenBasics.Oop\TechGenBasics.Oop.csproj" />
+      <ProjectReference Include="..\TechGenBasics.TuplesAndArrays\TechGenBasics.TuplesAndArrays.csproj" />
+    </ItemGroup>
+
+</Project>

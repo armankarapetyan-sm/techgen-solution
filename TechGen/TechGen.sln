@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechGenBasics.Fundamentals", "TechGenBasics.Fundamentals\TechGenBasics.Fundamentals.csproj", "{F98A8E44-A492-46D1-B83F-17B7827D9A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechGenBasics.TuplesAndArrays", "TechGenBasics.TuplesAndArrays\TechGenBasics.TuplesAndArrays.csproj", "{1E730F03-F8B1-4811-A868-4EDDE65964FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechGenBasics.ClassesAndProperties", "TechGenBasics.ClassesAndProperties\TechGenBasics.ClassesAndProperties.csproj", "{27F1F049-A535-4B97-8C1D-978A44E3CE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechGenBasics.Oop", "TechGenBasics.Oop\TechGenBasics.Oop.csproj", "{C4138042-8050-40EC-B57A-320DA478A92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechGenBasics.ArraysAlgorithms", "TechGenBasics.ArraysAlgorithms\TechGenBasics.ArraysAlgorithms.csproj", "{9268B027-A20F-44D0-8BEA-D335AEB4074F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechGenBasics.ConsoleApp", "TechGenBasics.ConsoleApp\TechGenBasics.ConsoleApp.csproj", "{577BF228-293D-4B54-AF66-51E1BFBFE49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98A8E44-A492-46D1-B83F-17B7827D9A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98A8E44-A492-46D1-B83F-17B7827D9A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98A8E44-A492-46D1-B83F-17B7827D9A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98A8E44-A492-46D1-B83F-17B7827D9A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E730F03-F8B1-4811-A868-4EDDE65964FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E730F03-F8B1-4811-A868-4EDDE65964FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E730F03-F8B1-4811-A868-4EDDE65964FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E730F03-F8B1-4811-A868-4EDDE65964FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F1F049-A535-4B97-8C1D-978A44E3CE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F1F049-A535-4B97-8C1D-978A44E3CE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F1F049-A535-4B97-8C1D-978A44E3CE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F1F049-A535-4B97-8C1D-978A44E3CE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4138042-8050-40EC-B57A-320DA478A92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4138042-8050-40EC-B57A-320DA478A92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4138042-8050-40EC-B57A-320DA478A92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4138042-8050-40EC-B57A-320DA478A92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9268B027-A20F-44D0-8BEA-D335AEB4074F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9268B027-A20F-44D0-8BEA-D335AEB4074F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9268B027-A20F-44D0-8BEA-D335AEB4074F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9268B027-A20F-44D0-8BEA-D335AEB4074F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577BF228-293D-4B54-AF66-51E1BFBFE49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577BF228-293D-4B54-AF66-51E1BFBFE49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577BF228-293D-4B54-AF66-51E1BFBFE49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577BF228-293D-4B54-AF66-51E1BFBFE49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
